@@ -1,8 +1,3 @@
-## 👩‍💻 About MySelf
-- JavaScript와 React.js를 공부중입니다.
-- 꾸준한 기록과 문서화를 통해 성장하고자 합니다.
-- 블로그 https://feelmypasta.tistory.com/
-
 ## 🚀 Tech Stacks
 #### FrontEnd
 ![](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
